@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chimi Tshering</h1>
-<h3 align="center">A passionate frontend developer from Bhutan</h3>
+<h3 align="center">Frontend developer from Bhutan</h3>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chimtshering&" alt="chimtshering" /></p>
 
